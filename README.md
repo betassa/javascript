@@ -1,5 +1,7 @@
 # Airbnb JavaScript Style Guide() {
 
+![ll]({{site.baseurl}}/corner-ripple.png)
+
 *A mostly reasonable approach to JavaScript*
 
 
